@@ -1,0 +1,3 @@
+--> Instale drive da china
+--> seleciona a placa 2560 na IDE Tools/Board/Arduino AVR Boards/Arduino Mega or Mega 2560
+-->Tools/Port/ Selecionar a que está habilitada
